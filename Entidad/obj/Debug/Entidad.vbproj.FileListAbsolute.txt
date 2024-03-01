@@ -1,0 +1,58 @@
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.dll
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.pdb
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.xml
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.Resources.resources
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.dll
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.xml
+F:\Proyectos Team\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\bin\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\bin\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\bin\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\bin\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Sistema de Ventas Itau Mok 20230725\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\bin\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\bin\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\bin\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20230824\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\bin\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\bin\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\bin\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok 20231025\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\bin\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\bin\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\bin\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.dll
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.xml
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.pdb
+C:\Users\JuanAhumadaTarifeño\source\repos\Arkano Itau Mok\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
